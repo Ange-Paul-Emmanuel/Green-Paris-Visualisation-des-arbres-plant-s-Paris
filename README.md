@@ -28,12 +28,14 @@ Le projet repose sur les données ouvertes fournies par la Ville de Paris.
 
 ## Outils & technologies  
 - **Power BI** → création du tableau de bord principal (visualisation, filtrage, cartographie)  
-- **Excel** → préparation et nettoyage des données  
+- **Excel** → préparation et nettoyage des données
+  
 ---
+
+## Visualisations principales  
 
 <img width="1360" height="767" alt="Green Paris Dashbord Screen shot" src="https://github.com/user-attachments/assets/e94c1f2d-d023-4c60-beaa-9cfb4724b62f" />
 
-## Visualisations principales  
 1. **Indicateurs clés**  
    - Nombre total d’arbres plantés  
    - Nombre de projets réalisés  
