@@ -14,7 +14,7 @@ Le projet repose sur les données ouvertes fournies par la Ville de Paris.
 ---
 
 ## Données utilisées  
-- **Source** : [Open Data Paris — Arbres plantés par projet](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information)  
+- **Source** : [Open Data Paris : Arbres plantés par projet](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information)  
 - **Format** : CSV  
 - **Champs principaux** :
   - `Projet` : nom ou description du projet  
