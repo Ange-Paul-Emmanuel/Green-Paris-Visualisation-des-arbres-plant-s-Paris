@@ -48,7 +48,9 @@ L’objectif est de permettre une **analyse claire et visuelle** de l’effort d
    - Graphique à barres illustrant la longueur totale végétalisée par arrondissement  
 
 5. **Cartographie interactive**  
-   - Visualisation géographique de l’ensemble des projets de plantation  
+   - Visualisation géographique de l’ensemble des projets de plantation
+   
+<img width="1360" height="767" alt="Green Paris Dashbord Screen shot" src="https://github.com/user-attachments/assets/e94c1f2d-d023-4c60-beaa-9cfb4724b62f" />
 
 ---
 
@@ -67,6 +69,5 @@ L’objectif est de permettre une **analyse claire et visuelle** de l’effort d
 
 ## 📸 Aperçu du dashboard  
 ![Green Paris Dashboard](./ada25484-0cbe-473c-9ab5-c1d512509666.png)
-<img width="1365" height="770" alt="Green Paris Dashbord Screen shot" src="https://github.com/user-attachments/assets/330950ed-33e3-4272-a28d-6220ed12b63a" />
 
  
