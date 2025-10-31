@@ -3,18 +3,18 @@
 ## Description du projet  
 **Green Paris** est un tableau de bord interactif qui présente la répartition et l’évolution des arbres plantés dans la ville de Paris.  
 Le projet repose sur les données ouvertes fournies par la Ville de Paris :  
-🔗 [Arbres plantés par projet — opendata.paris.fr](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJhcmVhIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiaW5kX2FyYl9wbGFudCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM1RDlGQTMifV0sInhBeGlzIjoiZGF0ZV9maW5fdCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJhcmJyZXMtcGxhbnRlcy1wYXItcHJvamV0Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9)
+[Arbres plantés par projet — opendata.paris.fr](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJhcmVhIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiaW5kX2FyYl9wbGFudCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM1RDlGQTMifV0sInhBeGlzIjoiZGF0ZV9maW5fdCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJhcmJyZXMtcGxhbnRlcy1wYXItcHJvamV0Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9)
 
 L’objectif est de permettre une **analyse claire et visuelle** de l’effort de végétalisation entrepris par la Ville, à travers plusieurs indicateurs clés :  
-- Nombre total d’arbres plantés 🌱  
-- Nombre de projets réalisés 🏗️  
-- Aire moyenne végétalisée 🌾  
-- Répartition des plantations par arrondissement 🗺️  
-- Localisation géographique des projets sur une carte interactive 📍  
+- Nombre total d’arbres plantés  
+- Nombre de projets réalisés
+- Aire moyenne végétalisée 
+- Répartition des plantations par arrondissement
+- Localisation géographique des projets sur une carte interactive
 
 ---
 
-## 🧩 Données utilisées  
+## Données utilisées  
 - **Source** : [Open Data Paris — Arbres plantés par projet](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information)  
 - **Format** : CSV  
 - **Champs principaux** :
@@ -27,22 +27,19 @@ L’objectif est de permettre une **analyse claire et visuelle** de l’effort d
 
 ---
 
-## 🛠️ Outils & technologies  
+## Outils & technologies  
 - **Power BI** → création du tableau de bord principal (visualisation, filtrage, cartographie)  
-- **Excel / CSV** → préparation et nettoyage des données  
-- **Mapbox / OpenStreetMap** → cartographie interactive  
-- **Palette de couleurs** : vert pastel et gris clair pour une identité visuelle écologique et lisible  
-
+- **Excel** → préparation et nettoyage des données  
 ---
 
-## 📊 Visualisations principales  
+## Visualisations principales  
 1. **Indicateurs clés**  
    - Nombre total d’arbres plantés  
    - Nombre de projets réalisés  
    - Aire moyenne végétalisée  
 
 2. **Tableau des projets réalisés**  
-   - Détail par arrondissement, aire végétalisée et statut  
+   - Détail par arrondissement, aire végétalisée et statut du projet
 
 3. **Top 5 arrondissements par nombre d’arbres plantés**  
    - Classement dynamique basé sur les totaux cumulés  
@@ -55,26 +52,21 @@ L’objectif est de permettre une **analyse claire et visuelle** de l’effort d
 
 ---
 
-## 🚀 Objectifs du projet  
-- Mettre en valeur l’engagement environnemental de la Ville de Paris 🌍  
+## Objectifs du projet  
+- Mettre en valeur l’engagement environnemental de la Ville de Paris 
 - Fournir une **analyse visuelle claire et synthétique** des efforts de végétalisation  
 - Faciliter l’identification des zones les plus vertes ou les plus actives en termes de projets  
 
 ---
 
-## 🧠 Pistes d’amélioration  
+## Pistes d’amélioration  
 - Intégrer une **analyse temporelle** de l’évolution du nombre d’arbres plantés (par année)  
-- Ajouter des filtres interactifs (par statut, par type d’espace, etc.)  
 - Coupler les données avec d’autres jeux de données environnementales (qualité de l’air, zones piétonnes, etc.)  
 
 ---
 
 ## 📸 Aperçu du dashboard  
 ![Green Paris Dashboard](./ada25484-0cbe-473c-9ab5-c1d512509666.png)
+<img width="1365" height="770" alt="Green Paris Dashbord Screen shot" src="https://github.com/user-attachments/assets/330950ed-33e3-4272-a28d-6220ed12b63a" />
 
----
-
-## 👤 Auteur  
-**Ange Emma Paul**  
-*Projet personnel de datavisualisation — 2025*  
-📧 *(ajoute ton LinkedIn ou ton adresse e-mail ici)*  
+ 
