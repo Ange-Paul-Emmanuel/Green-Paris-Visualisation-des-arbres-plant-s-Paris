@@ -1,4 +1,4 @@
-# 🌳 Green Paris — Visualisation des arbres plantés à Paris
+# 🌳 Green Paris : Visualisation des arbres plantés à Paris
 
 ## Description du projet  
 **Green Paris** est un tableau de bord interactif qui présente la répartition et l’évolution des arbres plantés dans la ville de Paris.  
