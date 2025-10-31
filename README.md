@@ -2,16 +2,8 @@
 
 ## Description du projet  
 **Green Paris** est un tableau de bord interactif qui présente la répartition et l’évolution des arbres plantés dans la ville de Paris.  
-Le projet repose sur les données ouvertes fournies par la Ville de Paris :  
-[Arbres plantés par projet — opendata.paris.fr](https://opendata.paris.fr/explore/dataset/arbres-plantes-par-projet/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJhcmVhIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiaW5kX2FyYl9wbGFudCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM1RDlGQTMifV0sInhBeGlzIjoiZGF0ZV9maW5fdCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJhcmJyZXMtcGxhbnRlcy1wYXItcHJvamV0Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9)
-
-L’objectif est de permettre une **analyse claire et visuelle** de l’effort de végétalisation entrepris par la Ville, à travers plusieurs indicateurs clés :  
-- Nombre total d’arbres plantés  
-- Nombre de projets réalisés
-- Aire moyenne végétalisée 
-- Répartition des plantations par arrondissement
-- Localisation géographique des projets sur une carte interactive
-
+Le projet repose sur les données ouvertes fournies par la Ville de Paris. 
+L’objectif est de permettre une **analyse claire et visuelle** de l’effort de végétalisation entrepris par la Ville, à travers plusieurs indicateurs clés.
 ---
 
 ## Données utilisées  
@@ -64,10 +56,3 @@ L’objectif est de permettre une **analyse claire et visuelle** de l’effort d
 ## Pistes d’amélioration  
 - Intégrer une **analyse temporelle** de l’évolution du nombre d’arbres plantés (par année)  
 - Coupler les données avec d’autres jeux de données environnementales (qualité de l’air, zones piétonnes, etc.)  
-
----
-
-## 📸 Aperçu du dashboard  
-![Green Paris Dashboard](./ada25484-0cbe-473c-9ab5-c1d512509666.png)
-
- 
