@@ -4,6 +4,7 @@
 **Green Paris** est un tableau de bord interactif qui présente la répartition et l’évolution des arbres plantés dans la ville de Paris.  
 Le projet repose sur les données ouvertes fournies par la Ville de Paris. 
 L’objectif est de permettre une **analyse claire et visuelle** de l’effort de végétalisation entrepris par la Ville, à travers plusieurs indicateurs clés.
+
 ---
 
 ## Données utilisées  
